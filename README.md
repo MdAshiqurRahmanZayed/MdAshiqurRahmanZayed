@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
 ### Frameworks and Libraries
 
@@ -55,9 +54,9 @@ Here are some ideas to get you started:
 About me:
 
 <!-- - 🔭 I’m currently working on Impel IT Solutions -->
-- 🌱 I’m currently learning Django,DRF,React,Machine Learning
+- 🌱 I’m currently learning Django, DRF, React, Machine Learning
 - 👯 I’m looking to collaborate on Django.
-- 🤔 I’m looking for help with Python,MERN.
+- 🤔 I’m looking for help with Python, MERN.
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
 
@@ -70,8 +69,4 @@ About me:
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MdAshiqurRahmanZayed&show_icons=true&theme=radical" alt="MdAshiqurRahmanZayed"/>
 </a>
-
 <hr>
-
-
-
