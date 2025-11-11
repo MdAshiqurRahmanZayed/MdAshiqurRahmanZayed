@@ -61,7 +61,6 @@ About me:
 <!-- - 🔭 I’m currently working on Impel IT Solutions -->
 - 🌱 I’m currently learning Django, DRF, React, Machine Learning
 - 👯 I’m looking to collaborate on Django.
-- 🤔 I’m looking for help with Python, MERN.
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
 
