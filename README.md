@@ -1,67 +1,91 @@
-### Md. Ashiqur Rahman Zayed
+<h1 align="center">Md. Ashiqur Rahman Zayed</h1>
+<h3 align="center">Software Engineer · Dhaka, Bangladesh</h3>
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
+  <a href="https://www.linkedin.com/in/md-ashiqur-rahman-zayed">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mdarzayed01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mdashiqurrahmanzayed.github.io/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-4B5563?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
+
 <p align="center">
-
+  <a href="https://mdashiqurrahmanzayed.github.io/mdzayed/">
+    <img src="https://img.shields.io/badge/🌐-mdashiqurrahmanzayed.github.io-6366f1?style=for-the-badge" />
+  </a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=MdAshiqurRahmanZayed&style=flat-square&color=blue" alt=""></p>
 
+---
 
+### About
 
-### About Me :
+Backend-focused Software Engineer passionate about building scalable systems and integrating LLMs into real-world workflows. I enjoy crafting clean APIs, setting up observability pipelines, and exploring applied AI.
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
+- 🤖 Backend · System Observability
+- 📬 mdarzayed01@gmail.com
 
+---
 
-<!--
-**MdAshiqurRahmanZayed/MdAshiqurRahmanZayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack
 
-Here are some ideas to get you started:
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend & API**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-ashiqur-rahman-zayed-141b741a9/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mdashiqurrahman.zayed)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mdzayed2019@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+**AI & LLM**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-## 🛠️ Skills
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Languages
+**DevOps & Observability**  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+---
 
-### Frameworks and Libraries
+### GitHub Stats
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-<br>
-### Other
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MdAshiqurRahmanZayed&theme=github-dark-blue&hide_border=true" />
+</p>
 
-About me:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdAshiqurRahmanZayed&theme=github_dark" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdAshiqurRahmanZayed&theme=github_dark" height="150" />
+</p>
 
-<!-- - 🔭 I’m currently working on Impel IT Solutions -->
-- 🌱 I’m currently learning Django, DRF, React, Machine Learning
-- 👯 I’m looking to collaborate on Django.
-- 💬 Ask me about anything
-- 📫 How to reach me: Email, Facebook
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAshiqurRahmanZayed&theme=github-compact&hide_border=true" />
+</p>
 
+---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MdAshiqurRahmanZayed&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MdAshiqurRahmanZayed&style=flat-square&color=6366f1" alt="Profile views" />
+</p>
