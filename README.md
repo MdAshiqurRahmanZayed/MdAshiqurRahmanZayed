@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://mdashiqurrahmanzayed.github.io/mdzayed/">
-    <img src="https://img.shields.io/badge/🌐-mdashiqurrahmanzayed.github.io-6366f1?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐-6366f1?style=for-the-badge" />
   </a>
 </p>
 
