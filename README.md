@@ -8,8 +8,8 @@
   <a href="mailto:mdarzayed01@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mdashiqurrahmanzayed.github.io/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-4B5563?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+  <a href="https://www.facebook.com/mdashiqurrahman.zayed">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
 </p>
 
