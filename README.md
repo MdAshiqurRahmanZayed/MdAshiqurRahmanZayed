@@ -79,13 +79,3 @@ Backend-focused Software Engineer passionate about building scalable systems and
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdAshiqurRahmanZayed&theme=github_dark" height="150" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdAshiqurRahmanZayed&theme=github_dark" height="150" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAshiqurRahmanZayed&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MdAshiqurRahmanZayed&style=flat-square&color=6366f1" alt="Profile views" />
-</p>
