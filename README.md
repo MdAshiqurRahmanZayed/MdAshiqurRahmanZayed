@@ -25,7 +25,6 @@
 
 Backend-focused Software Engineer passionate about building scalable systems and integrating LLMs into real-world workflows. I enjoy crafting clean APIs, setting up observability pipelines, and exploring applied AI.
 
-- 📬 mdarzayed01@gmail.com
 
 ---
 
